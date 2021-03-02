@@ -1,0 +1,1 @@
+myFile = open("chapitre10.py", "w+")
